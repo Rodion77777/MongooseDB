@@ -1,0 +1,18 @@
+{
+  "name": "mongoosedb",
+  "version": "1.0.0",
+  "description": "MongoDB Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Saiko Rodion",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
